@@ -1,0 +1,6 @@
+C:\Users\ngoqu\source\repos\btlTT\Map\obj\Debug\Map.csprojAssemblyReference.cache
+C:\Users\ngoqu\source\repos\btlTT\Map\obj\Debug\Map.csproj.CoreCompileInputs.cache
+C:\Users\ngoqu\source\repos\btlTT\Map\bin\Debug\Map.dll
+C:\Users\ngoqu\source\repos\btlTT\Map\bin\Debug\Map.pdb
+C:\Users\ngoqu\source\repos\btlTT\Map\obj\Debug\Map.dll
+C:\Users\ngoqu\source\repos\btlTT\Map\obj\Debug\Map.pdb

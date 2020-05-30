@@ -1,0 +1,10 @@
+C:\Users\ngoqu\source\repos\btlTT\btlTT\bin\Debug\btlTT.exe.config
+C:\Users\ngoqu\source\repos\btlTT\btlTT\bin\Debug\btlTT.exe
+C:\Users\ngoqu\source\repos\btlTT\btlTT\bin\Debug\btlTT.pdb
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.csprojAssemblyReference.cache
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.Properties.Resources.resources
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.csproj.GenerateResource.cache
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.csproj.CoreCompileInputs.cache
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.exe
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.pdb
+C:\Users\ngoqu\source\repos\btlTT\btlTT\obj\Debug\btlTT.Form1.resources
